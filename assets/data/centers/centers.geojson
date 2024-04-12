@@ -13839,32 +13839,6 @@
         "Continent": "North America",
         "Country": "USA",
         "State": "Texas",
-        "City": "Bellaire",
-        "Name": "Houston SKY Center",
-        "CenterNumber": "WCSC/APP/USA/016",
-        "Address": "4522, Maple, Bellaire, Texas 77401,",
-        "Zone": "USA",
-        "ContactPersonName": "SKY Sr. Prof. Meena Narayanasami",
-        "Mobile_1": "001-713-667-7448",
-        "Mobile_2": "-",
-        "Landline": "-",
-        "Email": "meenanswami@yahoo.com",
-        "Email_2": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.45374739,
-          29.69193747
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Continent": "North America",
-        "Country": "USA",
-        "State": "Texas",
         "City": "McKinney",
         "Name": "McKinney SKY Meditation Center",
         "CenterNumber": "unknown",
