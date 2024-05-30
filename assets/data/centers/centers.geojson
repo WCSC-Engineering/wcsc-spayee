@@ -1410,32 +1410,6 @@
       "properties": {
         "Continent": "Asia",
         "Country": "India",
-        "State": "West Bengal",
-        "City": "Kolkata",
-        "Name": "Kolkata SKY Trust",
-        "CenterNumber": "A.NO.314",
-        "Address": "E - 18/1, Sarsuna Housing, Phase - I, Ketapole, Kolkata - 700061.",
-        "Zone": "Kolkata",
-        "ContactPersonName": "Mrs.srimathy",
-        "Mobile_1": "8240455862",
-        "Mobile_2": "9433399904",
-        "Landline": "8691400192",
-        "Email": "smtsky2008@gmail.com",
-        "Email_2": "smtsky2008@gmail.com"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.284102,
-          22.480823
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Continent": "Asia",
-        "Country": "India",
         "State": "Andhra Pradesh",
         "City": "Kovvur",
         "Name": "Gowthami Yoga Sravanthi SKY Trust",
@@ -3522,11 +3496,11 @@
         "CenterNumber": "A.NO.79",
         "Address": "802, 8th Floor, Thamirabarani, DAE Township, Anupuram - 603 127",
         "Zone": "Kancheepuram",
-        "ContactPersonName": "A/N. A.Vetrivel",
-        "Mobile_1": "9442327881",
-        "Mobile_2": "9444103846",
+        "ContactPersonName": "A/N. S. Anbarasan",
+        "Mobile_1": "8897979773",
+        "Mobile_2": "9787938845",
         "Landline": "-",
-        "Email": "sa.a258@vethathiri.ac.in",
+        "Email": "kmvkmt@gmail.com",
         "Email_2": ""
       },
       "geometry": {
@@ -11686,7 +11660,7 @@
         "CenterNumber": "unknown",
         "Address": "No.4, 1st Floor, Jalan Hang Tuah 4/1, Taman Muhibbah, 86000, Kluang, Johor, Malaysia",
         "Zone": "Malaysia",
-        "ContactPersonName": "-Prof.(T) E. Sreekantan,Prof. Prasanna Shanmuganathan, A/N. V. Palanisamy",
+        "ContactPersonName": "Prof.(T) E. Sreekantan,Prof. Prasanna Shanmuganathan, A/N. V. Palanisamy",
         "Mobile_1": "006-012-3643620/0060 - 197 566 636",
         "Mobile_2": "006-010-12172599/ 0060 - 126 130 413",
         "Landline": "",
@@ -14298,6 +14272,32 @@
         "coordinates": [
           78.42284599,
           17.47576294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Continent": "Asia",
+        "Country": "India",
+        "State": "Kerala",
+        "City": "Kottayam",
+        "Name": "Pallickathodu SKY Trust",
+        "CenterNumber": "A.NO.460",
+        "Address": "WARD.8,HOUSE NO.3, AFFILIATION No. 460 PERUMKOOVATHIL, ANICAD-PO, PALLICKATHODE PANCHAYATH, KOTTAYAM-686503",
+        "Zone": "Kerala",
+        "ContactPersonName": "A/N.P.S.Ramachandran Nair",
+        "Mobile_1": "9447729521",
+        "Mobile_2": "0-9446548999",
+        "Landline": "-",
+        "Email": "ramachandrankskyyoga@gmail.com",
+        "Email_2": "baabukv@gmail.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.5221531,
+          9.5915668
         ]
       }
     }
