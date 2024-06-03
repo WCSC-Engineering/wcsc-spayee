@@ -4,6 +4,7 @@
 var sky_centers_api = "https://cdn.jsdelivr.net/gh/WCSC-Engineering/wcsc-spayee@0.0.21/assets/data/centers/sky-centers-by-country.json";
 var sky_center_geojson = "https://cdn.jsdelivr.net/gh/WCSC-Engineering/wcsc-spayee@0.0.21/assets/data/centers/centers.geojson";
 
+
 //var sky_centers_api = "./sky-centers-by-country.json";
 var centersList = [];
 
