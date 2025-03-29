@@ -246,7 +246,7 @@
         "CenterNumber": "_",
         "Address": "743, Avanishi Road,Near Anna Selai,Coimbatore - 641 018",
         "Zone": "Coimbatore",
-        "ContactPersonName": "A/N.Subban ",
+        "ContactPersonName": "A/N.Subban",
         "Mobile_1": "9486976767",
         "Mobile_2": "0422-2222411",
         "Landline": "0422-6547440",
@@ -1064,58 +1064,6 @@
         "coordinates": [
           77.7065754,
           12.7226843
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Continent": "Asia",
-        "Country": "India",
-        "State": "Karnataka",
-        "City": "Bengaluru",
-        "Name": "Bangalore R.T. Nagar SKY Trust",
-        "CenterNumber": "A.NO.111",
-        "Address": "No.62/1, 1st Cross , 2nd main, Ganga Nagar, Bangalore - 560032.",
-        "Zone": "Karnataka",
-        "ContactPersonName": "A/N.Dr.Devadas",
-        "Mobile_1": "9738526399",
-        "Mobile_2": "-",
-        "Landline": "23633463",
-        "Email": "-",
-        "Email_2": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          77.5855752,
-          13.0229777
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Continent": "Asia",
-        "Country": "India",
-        "State": "Andhra Pradesh",
-        "City": "Vijayawada",
-        "Name": "Vijayawada Omkara Dhyana Mandiram SKY Trust",
-        "CenterNumber": "A.NO.112",
-        "Address": "No.11-30-36, Seshaiah St, Prardhana Sangham Upstairs, Vijayawada - 520001.",
-        "Zone": "Andhra Pradesh",
-        "ContactPersonName": "A/N.Andalam Ramanath",
-        "Mobile_1": "9848125679",
-        "Mobile_2": "-",
-        "Landline": "421466, 2422609",
-        "Email": "abrahampjcst@gmail.com",
-        "Email_2": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.6480153,
-          16.5061743
         ]
       }
     },
@@ -5874,6 +5822,32 @@
         "coordinates": [
           80.21402357,
           12.96590532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Continent": "Asia",
+        "Country": "India",
+        "State": "Tamilnadu",
+        "City": "Chennai",
+        "Name": "Madipakkam Thilagar Avenue MVKM Trust",
+        "CenterNumber": "A.NO.239",
+        "Address": "C/o.A/N.K.Ekambaram, Secretary, P.No.152. A, 6th Cross St, Thilagar Avenue, Balaiah Garden, Madipakkam, Chennai - 600091.",
+        "Zone": "Kancheepuram",
+        "ContactPersonName": "A/N.E.Rajeshwari",
+        "Mobile_1": "9841928482",
+        "Mobile_2": "-",
+        "Landline": "044-22422236",
+        "Email": "madipakkammvkmtrust@yahoo.in",
+        "Email_2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1999234,
+          12.967373
         ]
       }
     },
@@ -12173,6 +12147,110 @@
       "type": "Feature",
       "properties": {
         "Continent": "Asia",
+        "Country": "Oman",
+        "State": "Muscat",
+        "City": "Muscat",
+        "Name": "SKY Muscat",
+        "CenterNumber": "unknown",
+        "Address": "-",
+        "Zone": "Oman",
+        "ContactPersonName": "A/N-Sankaranarayanan / A/N-Muruganandam",
+        "Mobile_1": "1",
+        "Mobile_2": "00968 9524 0423",
+        "Landline": "-",
+        "Email": "sky.muscat.wcsc@gmail.com",
+        "Email_2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.2878631,
+          23.60856068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Continent": "Asia",
+        "Country": "Oman",
+        "State": "Sohar",
+        "City": "Sohar",
+        "Name": "SKY Sohar",
+        "CenterNumber": "unknown",
+        "Address": "-",
+        "Zone": "Oman",
+        "ContactPersonName": "A/N. G. Sairam",
+        "Mobile_1": "+968 92722584",
+        "Mobile_2": "-",
+        "Landline": "-",
+        "Email": "skysohar@gmail.com",
+        "Email_2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.70576741,
+          24.35655671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Continent": "Asia",
+        "Country": "Qatar",
+        "State": "Al Khor",
+        "City": "Al Khor",
+        "Name": "Khor SKY Meditation Centre",
+        "CenterNumber": "unknown",
+        "Address": "PO Box 14172, Ibn Sinha Street, 3rd Floor, Flora Tower, Muntaza, Doha , Qatar.",
+        "Zone": "Qatar",
+        "ContactPersonName": "SKY Prof. (T) Sudalai Muthu",
+        "Mobile_1": "00974 - 55519834",
+        "Mobile_2": "0091-9487410435",
+        "Landline": "-",
+        "Email": "vvssmuthu@gmail.com",
+        "Email_2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.5171049,
+          25.2705454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Continent": "Asia",
+        "Country": "Qatar",
+        "State": "Doha",
+        "City": "Doha",
+        "Name": "Qatar SKY Centre",
+        "CenterNumber": "unknown",
+        "Address": "PO Box 14172, Ibn Sinha Street, 3rd Floor, Flora Tower, Muntaza, Doha , Qatar.",
+        "Zone": "Qatar",
+        "ContactPersonName": "SKY Prof. (T) Sudalai Muthu",
+        "Mobile_1": "00974 - 55519834",
+        "Mobile_2": "0091-9487410435",
+        "Landline": "-",
+        "Email": "vvssmuthu@gmail.com",
+        "Email_2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.5171049,
+          25.2705454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Continent": "Asia",
         "Country": "Singapore",
         "State": "Singapore",
         "City": "Singapore",
@@ -13760,6 +13838,32 @@
       "properties": {
         "Continent": "North America",
         "Country": "USA",
+        "State": "Virginia",
+        "City": "Richmond",
+        "Name": "Richmond SKY Center",
+        "CenterNumber": "unknown",
+        "Address": "11801 chase Wellesley Dr, Apt 1213, Richmond, VA23233",
+        "Zone": "USA",
+        "ContactPersonName": "A/N. Vikram Renganathan",
+        "Mobile_1": "001-919-930-9764",
+        "Mobile_2": "-",
+        "Landline": "-",
+        "Email": "vikram.renganathan@gmail.com",
+        "Email_2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.62193359,
+          37.64840696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Continent": "North America",
+        "Country": "USA",
         "State": "Washington",
         "City": "Bellevue",
         "Name": "Bellevue SKY Center (SKYSeattle)",
@@ -13870,7 +13974,7 @@
         "CenterNumber": "A.No.519",
         "Address": "No.469-C, Avinasi Salai,Kalki Nagar, ESSO Bunk,Peelamedu, Kovai 641 004.",
         "Zone": "Coimbatore",
-        "ContactPersonName": "A/N.Suresh ",
+        "ContactPersonName": "A/N.Suresh",
         "Mobile_1": "9994249726",
         "Mobile_2": "9842294197",
         "Landline": "9994249726",
@@ -14142,266 +14246,6 @@
         "coordinates": [
           76.5221531,
           9.5915668
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Continent": "Asia",
-        "Country": "India",
-        "State": "Tamilnadu",
-        "City": "Chennai",
-        "Name": "Royapuram MVKM Trust",
-        "CenterNumber": "A.NO.302",
-        "Address": "56/110, east madha kovil st, royapuram, Chennai 600013.",
-        "Zone": "Chennai",
-        "ContactPersonName": "A/N.D.Sasikala",
-        "Mobile_1": "9600198083",
-        "Mobile_2": "-",
-        "Landline": "-",
-        "Email": "sasikaladesingh@gmail.com",
-        "Email_2": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.25324441,
-          12.94595512
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Continent": "Asia",
-        "Country": "India",
-        "State": "Tamilnadu",
-        "City": "Viluppuram",
-        "Name": "Moongilthuraipattu MVKM Trust",
-        "CenterNumber": "A.NO.327",
-        "Address": "3/6, Pillayar Koil St, Kamaraj Nagar, Moongilthuraipattu - 605702.",
-        "Zone": "Viluppuram",
-        "ContactPersonName": "A/N.Ranganathan",
-        "Mobile_1": "9942445998",
-        "Mobile_2": "9976530013",
-        "Landline": "9442867977",
-        "Email": "raviranganathan6@gmail.com",
-        "Email_2": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          78.97738813,
-          12.05804653
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Continent": "Asia",
-        "Country": "India",
-        "State": "Tamilnadu",
-        "City": "Theni",
-        "Name": "Theni MVKM Trust",
-        "CenterNumber": "A.NO.350",
-        "Address": "Theni Arivuthirukovil, 4th South Street, Penniquick Nagar, Thitta Salai, Theni - 625 531.",
-        "Zone": "Dindigul",
-        "ContactPersonName": "PRO.O.Rajendaran",
-        "Mobile_1": "9659960343",
-        "Mobile_2": "9994619434",
-        "Landline": "-",
-        "Email": "tct.theni10@gmail.com",
-        "Email_2": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          77.48038979,
-          10.01746269
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Continent": "Asia",
-        "Country": "India",
-        "State": "Tamilnadu",
-        "City": "Chennai",
-        "Name": "Besant Nagar MVKM Trust",
-        "CenterNumber": "A.NO.382",
-        "Address": "97/3, T.M.Maistry Street, Thiruvanmiyur, Chennai 600 041.",
-        "Zone": "Chennai",
-        "ContactPersonName": "A/N.V.Pandurangan",
-        "Mobile_1": "9840137876",
-        "Mobile_2": "9940678769",
-        "Landline": "044-65498955",
-        "Email": "mvkmbesantnagar@gmail.com",
-        "Email_2": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.26202918,
-          12.99543225
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Continent": "Asia",
-        "Country": "India",
-        "State": "Tamilnadu",
-        "City": "Cuddalore",
-        "Name": "Bhuvanagiri MVKM Trust",
-        "CenterNumber": "A.NO.390",
-        "Address": "25D-3/NA, Bismi Complex, Bhuvanagiri 608 602, Cuddalore Dist.",
-        "Zone": "Viluppuram",
-        "ContactPersonName": "A/N.R.LAKSHMI ",
-        "Mobile_1": "8344488210",
-        "Mobile_2": "-",
-        "Landline": "-",
-        "Email": "bhuvanagirimvkmtrust2011@gmail.com",
-        "Email_2": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          79.6530174,
-          11.4459041
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Continent": "Asia",
-        "Country": "India",
-        "State": "Tamilnadu",
-        "City": "Viluppuram",
-        "Name": "Villupuram Salamedu NGGO Colony MVKM Trust",
-        "CenterNumber": "A.NO.450",
-        "Address": "No.80, Imayam Veedhi, N.G.G.O. Colony, Salamedu, Villupuram 605 602.",
-        "Zone": "Viluppuram",
-        "ContactPersonName": "A/N.P.Natarajan",
-        "Mobile_1": "9597814495",
-        "Mobile_2": "9486389510",
-        "Landline": "-",
-        "Email": "vpmsalamedu.450@gmail.com",
-        "Email_2": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          79.48201328,
-          11.92518512
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Continent": "Asia",
-        "Country": "Oman",
-        "State": "Muscat",
-        "City": "Muscat",
-        "Name": "SKY Muscat",
-        "CenterNumber": "unknown",
-        "Address": "-",
-        "Zone": "Oman",
-        "ContactPersonName": "APT-Muruganandam / A/N-Ramu.K.C",
-        "Mobile_1": "+968 9410 7249",
-        "Mobile_2": "+968 9692 2753",
-        "Landline": "-",
-        "Email": "skymuscat2020@gmail.com",
-        "Email_2": "wcscuae@gmail.com"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          58.2878631,
-          23.60856068
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Continent": "Asia",
-        "Country": "Oman",
-        "State": "Sohar",
-        "City": "Sohar",
-        "Name": "SKY Sohar",
-        "CenterNumber": "unknown",
-        "Address": "-",
-        "Zone": "Oman",
-        "ContactPersonName": "A/N. G. Sairam",
-        "Mobile_1": "+968 92722584",
-        "Mobile_2": "-",
-        "Landline": "-",
-        "Email": "skysohar@gmail.com",
-        "Email_2": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          56.70576741,
-          24.35655671
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Continent": "Asia",
-        "Country": "Qatar",
-        "State": "Al Khor",
-        "City": "Al Khor",
-        "Name": "Khor SKY Meditation Centre",
-        "CenterNumber": "unknown",
-        "Address": "",
-        "Zone": "Qatar",
-        "ContactPersonName": "",
-        "Mobile_1": "",
-        "Mobile_2": "",
-        "Landline": "-",
-        "Email": "vvssmuthu@gmail.com",
-        "Email_2": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.5171049,
-          25.2705454
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Continent": "Asia",
-        "Country": "Qatar",
-        "State": "Doha",
-        "City": "Doha",
-        "Name": "Qatar SKY Centre",
-        "CenterNumber": "unknown",
-        "Address": "",
-        "Zone": "Qatar",
-        "ContactPersonName": "",
-        "Mobile_1": "",
-        "Mobile_2": "",
-        "Landline": "-",
-        "Email": "vvssmuthu@gmail.com",
-        "Email_2": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.5171049,
-          25.2705454
         ]
       }
     }
