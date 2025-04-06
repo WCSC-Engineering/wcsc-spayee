@@ -918,6 +918,136 @@
         "Country": "India",
         "State": "Karnataka",
         "City": "Bengaluru",
+        "Name": "Bangalore R.T. Nagar SKY Trust",
+        "CenterNumber": "A.NO.111",
+        "Address": "No.62/1, 1st Cross , 2nd main, Ganga Nagar, Bangalore - 560032.",
+        "Zone": "Karnataka",
+        "ContactPersonName": "A/N.Dr.Devadas",
+        "Mobile_1": "9738526399",
+        "Mobile_2": "-",
+        "Landline": "23633463",
+        "Email": "-",
+        "Email_2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5855752,
+          13.0229777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Continent": "Asia",
+        "Country": "India",
+        "State": "Andhra Pradesh",
+        "City": "Vijayawada",
+        "Name": "Vijayawada Omkara Dhyana Mandiram SKY Trust",
+        "CenterNumber": "A.NO.112",
+        "Address": "No.11-30-36, Seshaiah St, Prardhana Sangham Upstairs, Vijayawada - 520001.",
+        "Zone": "Andhra Pradesh",
+        "ContactPersonName": "A/N.Andalam Ramanath",
+        "Mobile_1": "9848125679",
+        "Mobile_2": "-",
+        "Landline": "421466, 2422609",
+        "Email": "abrahampjcst@gmail.com",
+        "Email_2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6480153,
+          16.5061743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Continent": "Asia",
+        "Country": "India",
+        "State": "Kerala",
+        "City": "Ernakulam",
+        "Name": "Jyothis SKY Trust",
+        "CenterNumber": "A.NO.123",
+        "Address": "Mangattu House, MRRA - 25, Mangattu Road, Mamagalam, Palarivattom, Cochin, Kerala - 682 025.",
+        "Zone": "Kerala",
+        "ContactPersonName": "A/N. K. R. Satheesh",
+        "Mobile_1": "9446324878",
+        "Mobile_2": "8289956114",
+        "Landline": "9847032158",
+        "Email": "krsatheesh.2010@gmail.com",
+        "Email_2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.30147717,
+          10.01267996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Continent": "Asia",
+        "Country": "India",
+        "State": "Telangana",
+        "City": "Hyderabad",
+        "Name": "Hyderabad SKY Trust",
+        "CenterNumber": "A.NO.181",
+        "Address": "Flat no:103,Second floor, Madhuban Residency, R T C colony,road no-1, L B Nagar, Hyderabad, Telangana State, India. (Land Mark:First left lane ,near Abhinanda Grand opp/- Kamineni hospital)",
+        "Zone": "Telangana",
+        "ContactPersonName": "A/N M. Kalpana",
+        "Mobile_1": "7893534920",
+        "Mobile_2": "9848144487",
+        "Landline": "-",
+        "Email": "an.a181@vethathiri.edu.in",
+        "Email_2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.55558509,
+          17.35229353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Continent": "Asia",
+        "Country": "India",
+        "State": "Karnataka",
+        "City": "Bengaluru",
+        "Name": "Bangalore Shivaji Nagar SKY Trust",
+        "CenterNumber": "A.NO.188",
+        "Address": "No.17/2, Lazar Road, Ist Cross, Fraser Road, Bangalore North, Bangalore - 560005",
+        "Zone": "Karnataka",
+        "ContactPersonName": "A/N.T.B.J.Kumar",
+        "Mobile_1": "9886138376",
+        "Mobile_2": "-",
+        "Landline": "-",
+        "Email": "-",
+        "Email_2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6205058,
+          13.0017896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Continent": "Asia",
+        "Country": "India",
+        "State": "Karnataka",
+        "City": "Bengaluru",
         "Name": "Jai nagar subcenter",
         "CenterNumber": "_",
         "Address": "no:84, 3rd block, 8th main road Jayanagar,Bangalore-560011",
@@ -3335,6 +3465,32 @@
         "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
+        "City": "Chengalpattu",
+        "Name": "Kalpakkam MVKM Trust",
+        "CenterNumber": "A.NO.79",
+        "Address": "808, 8th Floor, Samanthi, DAE Township, Anupuram - 603 127",
+        "Zone": "Kancheepuram",
+        "ContactPersonName": "A/N. S. Anbarasan",
+        "Mobile_1": "8897979773",
+        "Mobile_2": "9787938845",
+        "Landline": "-",
+        "Email": "kmvkmt@gmail.com",
+        "Email_2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.12757421,
+          12.55944086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Continent": "Asia",
+        "Country": "India",
+        "State": "Tamilnadu",
         "City": "Thiruvarur",
         "Name": "Nidamangalam MVKM Trust",
         "CenterNumber": "A.NO.76",
@@ -5406,6 +5562,32 @@
         "coordinates": [
           77.00902289,
           11.3226504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Continent": "Asia",
+        "Country": "India",
+        "State": "Tamilnadu",
+        "City": "Thiruvannamalai",
+        "Name": "Polur MVKM Trust",
+        "CenterNumber": "A.NO.217",
+        "Address": "2/G.10, Vethathiri Illam,\nVasatham Nagar,\nPolur - 606 803",
+        "Zone": "Thiruvannamalai",
+        "ContactPersonName": "A.Amuthavalli",
+        "Mobile_1": "9442314425",
+        "Mobile_2": "9790099352",
+        "Landline": "-",
+        "Email": "ravis4546@gmail.com",
+        "Email_2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1293743,
+          12.5083373
         ]
       }
     },
@@ -8566,8 +8748,8 @@
         "CenterNumber": "A.NO.390",
         "Address": "25D-3/NA, Bismi Complex, Bhuvanagiri 608 602, Cuddalore Dist.",
         "Zone": "Viluppuram",
-        "ContactPersonName": "A/N.R.Senguttuvan",
-        "Mobile_1": "9443876925",
+        "ContactPersonName": "A/N.R.LAKSHMI ",
+        "Mobile_1": "8344488210",
         "Mobile_2": "-",
         "Landline": "-",
         "Email": "bhuvanagirimvkmtrust2011@gmail.com",
@@ -9512,8 +9694,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          76.98887911,
-          10.9802672
+          79.48201328,
+          11.92518512
         ]
       }
     },
@@ -10148,6 +10330,32 @@
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Tiruppur",
+        "Name": "Kunnathur MVKM Trust",
+        "CenterNumber": "A.NO.491",
+        "Address": "Malayapalayam Road, Perumal Koil Near, Kunnathur 638 103.",
+        "Zone": "Tiruppur",
+        "ContactPersonName": "A/N.Vijayalakshmi",
+        "Mobile_1": "9500631588",
+        "Mobile_2": "9524485047",
+        "Landline": "-",
+        "Email": "kunnathuratk@gmail.com",
+        "Email_2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.34164847,
+          11.28226963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Continent": "Asia",
+        "Country": "India",
+        "State": "Tamilnadu",
+        "City": "Tiruppur",
         "Name": "Tirupur Karuvampalayam MVKM Trust",
         "CenterNumber": "A.NO.492",
         "Address": "No.26, Jothipuram, Alankadu, Karuvampalayam, Tiruppur 641 604.",
@@ -10528,6 +10736,32 @@
         "coordinates": [
           77.52661226,
           8.119095778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Continent": "Asia",
+        "Country": "India",
+        "State": "Tamilnadu",
+        "City": "Chennai",
+        "Name": "Chennai Bakthavachalam Colony MVKM Trust",
+        "CenterNumber": "A.NO.514",
+        "Address": "No.1, 23rd Street, BAKTHAVACHALAM COLONY, (Nearby Nethaji statue and Foot Ball Play ground), Vyasarpadi, Chennai � 600039",
+        "Zone": "Chennai",
+        "ContactPersonName": "A/N.B. Jothi",
+        "Mobile_1": "9840894645",
+        "Mobile_2": "-",
+        "Landline": "-",
+        "Email": "-",
+        "Email_2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.24762823,
+          13.05281002
         ]
       }
     },
@@ -11894,12 +12128,12 @@
         "CenterNumber": "unknown",
         "Address": "-",
         "Zone": "Oman",
-        "ContactPersonName": "A/N-Sankaranarayanan / A/N-Muruganandam",
-        "Mobile_1": "1",
-        "Mobile_2": "00968 9524 0423",
+        "ContactPersonName": "APT-Muruganandam / A/N-Ramu.K.C",
+        "Mobile_1": "+968 9410 7249",
+        "Mobile_2": "+968 9692 2753",
         "Landline": "-",
-        "Email": "sky.muscat.wcsc@gmail.com",
-        "Email_2": ""
+        "Email": "skymuscat2020@gmail.com",
+        "Email_2": "wcscuae@gmail.com"
       },
       "geometry": {
         "type": "Point",
@@ -11944,11 +12178,11 @@
         "City": "Al Khor",
         "Name": "Khor SKY Meditation Centre",
         "CenterNumber": "unknown",
-        "Address": "PO Box 14172, Ibn Sinha Street, 3rd Floor, Flora Tower, Muntaza, Doha , Qatar.",
+        "Address": "",
         "Zone": "Qatar",
-        "ContactPersonName": "SKY Prof. (T) Sudalai Muthu",
-        "Mobile_1": "00974 - 55519834",
-        "Mobile_2": "0091-9487410435",
+        "ContactPersonName": "",
+        "Mobile_1": "",
+        "Mobile_2": "",
         "Landline": "-",
         "Email": "vvssmuthu@gmail.com",
         "Email_2": ""
@@ -11970,11 +12204,11 @@
         "City": "Doha",
         "Name": "Qatar SKY Centre",
         "CenterNumber": "unknown",
-        "Address": "PO Box 14172, Ibn Sinha Street, 3rd Floor, Flora Tower, Muntaza, Doha , Qatar.",
+        "Address": "",
         "Zone": "Qatar",
-        "ContactPersonName": "SKY Prof. (T) Sudalai Muthu",
-        "Mobile_1": "00974 - 55519834",
-        "Mobile_2": "0091-9487410435",
+        "ContactPersonName": "",
+        "Mobile_1": "",
+        "Mobile_2": "",
         "Landline": "-",
         "Email": "vvssmuthu@gmail.com",
         "Email_2": ""
@@ -12825,13 +13059,65 @@
         "Continent": "North America",
         "Country": "USA",
         "State": "California",
+        "City": "Berkeley",
+        "Name": "SKY Meditation Centre - Bay Area",
+        "CenterNumber": "unknown",
+        "Address": "Berkeley CA",
+        "Zone": "USA",
+        "ContactPersonName": "Rajendran Sarangapani",
+        "Mobile_1": "001-510-456-8953",
+        "Mobile_2": "-",
+        "Landline": "",
+        "Email": "mksreeniv@gmail.com",
+        "Email_2": "sky.bayarea@yahoo.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2879667,
+          37.82594145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Continent": "North America",
+        "Country": "USA",
+        "State": "California",
+        "City": "Cupertino",
+        "Name": "Cupertino SKY Sub Center (SKYBayArea)",
+        "CenterNumber": "WCSC/APP(S)/USA/056",
+        "Address": "1436,South Stelling Road, Cupertino, CA 95014",
+        "Zone": "USA",
+        "ContactPersonName": "A/N. Shanthi Sivanesan",
+        "Mobile_1": "001-408-650-2696",
+        "Mobile_2": "",
+        "Landline": "-",
+        "Email": "shanthijayasekhar@gmail.com",
+        "Email_2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.04108,
+          37.29747492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Continent": "North America",
+        "Country": "USA",
+        "State": "California",
         "City": "Fremont",
         "Name": "Fremont Meditation Centre",
         "CenterNumber": "WCSC/AFF/USA/003",
-        "Address": "2000 Walnut Ave Apt O201, Fremont, CA-94538.",
+        "Address": "3676 Delaware Dr, Fremont, CA 94538",
         "Zone": "USA",
         "ContactPersonName": "Lakshmi Palaniappan; Murali Sreenivasan",
-        "Mobile_1": "001-510-402-4940",
+        "Mobile_1": "510-754-8057",
         "Mobile_2": "001-510-456-8953",
         "Landline": "001-510-656-6714",
         "Email": "wcsc.co.usa@vethathiri.edu.in",
@@ -13206,6 +13492,32 @@
         "coordinates": [
           -74.34079905,
           40.60218872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Continent": "North America",
+        "Country": "USA",
+        "State": "New Jersey",
+        "City": "Edison",
+        "Name": "South Edison SKY Sub Center (SKY New Jersey)",
+        "CenterNumber": "WCSC/APP(S)/USA/051",
+        "Address": "193, Evergreen Road, Edison, NJ 08837.",
+        "Zone": "USA",
+        "ContactPersonName": "A/N. Dr. Priyatarssini",
+        "Mobile_1": "001-551-200-7894",
+        "Mobile_2": "-",
+        "Landline": "-",
+        "Email": "ranjinidevi@gmail.com",
+        "Email_2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.3316659,
+          40.5506471
         ]
       }
     },
@@ -13751,7 +14063,7 @@
         "type": "Point",
         "coordinates": [
           80.30183555,
-          13.17031578
+          13.170315783299532
         ]
       }
     },
